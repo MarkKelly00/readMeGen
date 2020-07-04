@@ -1,0 +1,23 @@
+{
+  "name": "readmegen",
+  "version": "1.0.0",
+  "description": "const inquirer = require(\"inquirer\");\r const questions = [\r     {\r         type: 'input',\r         message: 'Enter the project name: ',\r         name: 'name',\r     },\r     {\r         type: 'input',\r         name: 'description',\r         message: 'Describe your project: ',\r     },\r     {\r         type: 'input',\r         name: 'installation',\r         message: 'Installation: ',\r     },\r     {\r         type: 'list',\r         choices: ['MIT', 'BSD', 'GPL', 'None'],\r         name: 'liscense',\r         message: 'Select the project license: ',\r     },\r     {\r         type: 'input',\r         name: 'usage',\r         message: 'What do you use to run this application? ',\r     },\r     {\r         type: 'input',\r         name: 'contributing',\r         message: 'What contributions were made? ',\r     },\r     {\r         type: 'input',\r         name: 'test',\r         message: 'Test that were made? ',\r     },\r     {\r         type: 'input',\r         name: 'profilePic',\r         message: 'What is your github profile picture url? ',\r     },\r     {\r         type: 'input',\r         name: 'profileEmail',\r         message: 'What is your github email? ',\r     },\r ];",
+  "main": "readMe.js",
+  "dependencies": {
+    "inquirer": "^7.3.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarkKelly00/readmeGen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarkKelly00/readmeGen/issues"
+  },
+  "homepage": "https://github.com/MarkKelly00/readmeGen#readme"
+}
