@@ -21,7 +21,7 @@ const questions = [
     {
         type: 'list',
         choices: ['MIT', 'BSD', 'GPL', 'None'],
-        name: 'liscense',
+        name: 'license',
         message: 'Select the project license: ',
     },
     {
