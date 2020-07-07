@@ -1,6 +1,6 @@
 
-# ReadMe Generator
 [![Github license](https://img.shields.io/badge/license-BSD-blue.svg)]
+# ReadMe Generator
 
 ## Description
 This generator creates a new ReadMe document
@@ -31,8 +31,8 @@ Creating a new ReadMe via node
 ## Test
 ```
 Walk-Through Video:
-[![Test Video](https://drive.google.com/file/d/1xhd_hJ0LYJw0Rxyr_EzaxHG6smkbxl0t/view?usp=sharing)]
-[![Screenshot](testIMG.png)]
+https://drive.google.com/file/d/1xhd_hJ0LYJw0Rxyr_EzaxHG6smkbxl0t/view?usp=sharing
+![Screenshot](testIMG.png)
 ```
 
 ## Profile Picture
